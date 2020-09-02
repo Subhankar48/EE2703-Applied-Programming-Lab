@@ -9,7 +9,6 @@ from scipy.linalg import lstsq
 import sys
 from matplotlib import cm
 arguments = sys.argv
- 
 
 #Variable Declaration
 if len(arguments)==1:
