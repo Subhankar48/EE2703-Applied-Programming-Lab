@@ -1,0 +1,15 @@
+hello
+hi
+you too can go to hell
+.circuit
+R.. n1 n3 3
+E.. n3 n4 n1 n3 5
+I.. n2 n1 7
+H.. n1 n3 n2 n4 11
+F.. n2 n4 n1 n1 9
+V.. n4 n5 8
+A.. n1 n3 10
+.end
+heyya
+you should not mess up my final value
+please
